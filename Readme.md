@@ -7,7 +7,7 @@ A deep learning project for classifying waste images using Keras and TensorFlow.
 - Train a custom image classifier on waste categories
 - Predict waste type from new images
 - Modular code for data loading, training, and prediction
-
+- Streamlit based app to upload image from camera or gallery and predict
 ## Dataset
 
 This project uses the [Waste Classification Data](https://www.kaggle.com/datasets/techsash/waste-classification-data?resource=download) from Kaggle.
@@ -15,7 +15,7 @@ This project uses the [Waste Classification Data](https://www.kaggle.com/dataset
 **To use this project:**
 1. Download the dataset from Kaggle.
 2. Place it in the `DATASET/` folder in the project root.
-
+3. Run main.py and then Use Streamlit run app.py
 ## Setup
 
 1. Clone this repository:

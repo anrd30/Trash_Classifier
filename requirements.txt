@@ -3,3 +3,4 @@ keras
 matplotlib
 numpy
 pillow
+streamlit

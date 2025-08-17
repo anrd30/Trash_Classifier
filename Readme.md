@@ -10,7 +10,7 @@ A deep learning project for classifying waste images using Keras and TensorFlow.
 
 ## Dataset
 
-This project uses the [Your Dataset Name](https://www.kaggle.com/your-dataset-link) from Kaggle.
+This project uses the [Waste Classification Data](https://www.kaggle.com/datasets/techsash/waste-classification-data?resource=download) from Kaggle.
 
 **To use this project:**
 1. Download the dataset from Kaggle.
@@ -20,7 +20,7 @@ This project uses the [Your Dataset Name](https://www.kaggle.com/your-dataset-li
 
 1. Clone this repository:
    ```
-   git clone https://github.com/<your-username>/waste-classifier.git
+   git clone https://github.com/anrd30/Trash_Classifier
    cd waste-classifier
    ```
 
